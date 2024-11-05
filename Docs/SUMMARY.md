@@ -1,3 +1,16 @@
 # Table of contents
 
-* [Page](README.md)
+* [Home](README.md)
+  * [Terms and Conditions](home/terms-and-conditions.md)
+  * [Privacy Policy](home/privacy-policy.md)
+  * [Refund Policy](home/refund-policy.md)
+* [Changelogs](changelogs/README.md)
+  * [Pre v4.5](changelogs/pre-v4.5.md)
+  * [Winter Update](changelogs/winter-update.md)
+* [Introduction](introduction/README.md)
+  * [What is Raiden Bot?](introduction/what-is-raiden-bot.md)
+  * [Raiden Features](introduction/raiden-features.md)
+* [Setup](setup/README.md)
+  * [Starting Up](setup/starting-up.md)
+  * [Auto Moderation](setup/auto-moderation.md)
+  * [Admin Commands](setup/admin-commands.md)
